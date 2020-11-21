@@ -1,5 +1,5 @@
-const createMockServer = require('./mockServer')
+const createMockServer = require('./mockServer');
 
 module.exports = {
-    before: createMockServer,
-  };
+  before: createMockServer,
+};
