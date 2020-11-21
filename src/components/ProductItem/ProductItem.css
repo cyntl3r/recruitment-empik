@@ -1,0 +1,11 @@
+.product-item {
+  padding: 10px;
+  border-bottom: 1px solid silver;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.product-item div:first-child {
+  flex: 1;
+}
