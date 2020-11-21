@@ -1,8 +1,8 @@
 {
-  "name": "react_task",
+  "name": "recruitment-empik",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Recruitment project for Empik SA.",
+  "private": true,
   "scripts": {
     "start": "webpack-dev-server --mode=development --hot  --open --port 3030",
     "build": "webpack --mode=production"
