@@ -1,0 +1,20 @@
+.product-item-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.product-item-quantity__button {
+  background-color: transparent;
+  border: 1px solid #000000;
+  margin-left: 10px;
+  width: 25px;
+  height: 25px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  color: #000000;
+}
+
+.product-item-quantity__button:disabled {
+  color: #dddddd;
+}
